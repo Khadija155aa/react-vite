@@ -1,8 +1,8 @@
 function ProfileCard() {
     const user = {
-      name: 'Jane Doe',
-      role: 'Software Engineer',
-      location: 'San Francisco, CA'
+      name: 'Khadija Alshuwaikhat',
+      role: 'Web Designer',
+      location: 'East Lansing, MI'
     };
   
     return (
