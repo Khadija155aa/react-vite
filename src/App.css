@@ -40,3 +40,90 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 1rem;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  font-size: 1rem;
+  margin: 5px 0;
+}
+
+.bookCover {
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Container for the book and magazine sections */
+.section {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.quoteCard {
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.profileCard {
+  background-color: #fff;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+}
+
+.profileCard p {
+  margin: 5px 0;
+  color: #555;
+}
