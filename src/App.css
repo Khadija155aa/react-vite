@@ -127,3 +127,8 @@ h3 {
   margin: 5px 0;
   color: #555;
 }
+
+.book-cover {
+  max-width: 150px;  /* Adjust size as needed */
+  height: auto;
+}

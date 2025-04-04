@@ -8,13 +8,15 @@ import ProfileCard from './components/ProfileCard';
 // Fake login state to test conditionals
 const isLoggedIn = true;
 
+import bookCover from './assets/A_Farewell_to_Arms.jpg';
+
 const book = {
   title: 'A Farewell to Arms',
   author: 'Ernest Hemingway',
   published: '1929',
-  image: 'https://upload.wikimedia.org/wikipedia/en/4/48/Hemingway_farewell.png',
-  width: '264',
-  height: '378'
+  image: bookCover,
+  width: '150px',   // set to something smaller
+  height: 'auto'
 };
 
 const magazines = [
